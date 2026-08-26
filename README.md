@@ -1,20 +1,16 @@
-
-
-
-
 \# 🎮 Aprende Jugando
 
 
 
-\### Mi primera aplicación móvil desarrollada con Flutter y Dart
+\## Mi primera aplicación móvil desarrollada con Flutter y Dart
 
 
 
-Aprende Jugando es una aplicación educativa diseñada para que los niños puedan practicar operaciones matemáticas básicas de una manera sencilla, interactiva y divertida.
+\*\*Aprende Jugando\*\* es una aplicación educativa diseñada para que los niños puedan practicar operaciones matemáticas básicas de una manera sencilla, interactiva y divertida.
 
 
 
-La aplicación permite trabajar con:
+La aplicación permite practicar:
 
 
 
@@ -28,11 +24,13 @@ La aplicación permite trabajar con:
 
 \---
 
+
+
 \# 📸 Capturas de pantalla
 
 
 
-\## 🏠 Bienvenida
+\## 🏠 Pantalla de bienvenida
 
 
 
@@ -80,11 +78,15 @@ La aplicación permite trabajar con:
 
 
 
-\## 📱 Sobre el proyecto
+\---
 
 
 
-\*\*Aprende Jugando\*\* fue desarrollado como mi primer proyecto de aplicación móvil utilizando Flutter.
+\# 📱 Sobre el proyecto
+
+
+
+\*\*Aprende Jugando\*\* fue desarrollado como mi primera aplicación móvil utilizando Flutter y Dart.
 
 
 
@@ -92,7 +94,7 @@ La aplicación cuenta con diferentes niveles de dificultad y un sistema de pregu
 
 
 
-Cada nivel contiene \*\*10 preguntas\*\* y se necesitan como mínimo \*\*8 respuestas correctas\*\* para superar el nivel.
+Cada nivel contiene \*\*10 preguntas\*\* y se necesitan como mínimo \*\*8 respuestas correctas de 10\*\* para superar el nivel.
 
 
 
@@ -104,7 +106,7 @@ El juego también incluye estrellas, resultados y una mascota que acompaña al j
 
 
 
-\## 🎯 Objetivo
+\# 🎯 Objetivo
 
 
 
@@ -132,7 +134,7 @@ La aplicación busca combinar:
 
 
 
-\## ⭐ Características principales
+\# ⭐ Características principales
 
 
 
@@ -140,7 +142,7 @@ La aplicación busca combinar:
 
 \- 📝 10 preguntas por nivel
 
-\- ✅ Sistema de respuestas correctas e incorrectas
+\- ✅ Respuestas correctas e incorrectas
 
 \- ⭐ Sistema de estrellas
 
@@ -156,7 +158,7 @@ La aplicación busca combinar:
 
 \- 📱 Aplicación para dispositivos Android
 
-\- 📶 Puede utilizarse sin conexión a Internet
+\- 📶 Funcionamiento sin conexión a Internet
 
 
 
@@ -168,11 +170,15 @@ La aplicación busca combinar:
 
 
 
-La Inteligencia Artificial fue utilizada como herramienta de apoyo durante diferentes etapas del desarrollo del proyecto.
+Durante el desarrollo de esta aplicación se utilizó Inteligencia Artificial como herramienta de apoyo para aprender, planificar, desarrollar, solucionar errores y documentar el proyecto.
 
 
 
-La IA permitió aprender, consultar, analizar errores y recibir orientación durante la construcción de la aplicación.
+La IA fue utilizada como apoyo al aprendizaje y no como sustituto de las pruebas y revisión del código.
+
+
+
+\---
 
 
 
@@ -180,11 +186,11 @@ La IA permitió aprender, consultar, analizar errores y recibir orientación dur
 
 
 
-El primer paso para desarrollar la aplicación consiste en explicar correctamente a la Inteligencia Artificial qué se desea crear.
+El primer paso consiste en explicar correctamente a la Inteligencia Artificial qué aplicación se desea desarrollar.
 
 
 
-El prompt debe explicar claramente:
+El prompt debe indicar claramente:
 
 
 
@@ -210,7 +216,7 @@ El prompt debe explicar claramente:
 
 
 
-Mientras más clara sea la información proporcionada, más precisa puede ser la orientación recibida.
+Mientras más clara sea la información proporcionada, más precisa puede ser la orientación de la IA.
 
 
 
@@ -266,7 +272,7 @@ Puede incluir:
 
 
 
-El expediente técnico puede solicitarse en formato \*\*PDF\*\* para conservar la documentación completa del proyecto.
+El expediente técnico puede solicitarse en formato PDF para conservar la documentación completa del proyecto.
 
 
 
@@ -314,11 +320,9 @@ Una vez preparado el entorno de desarrollo, se crea el proyecto utilizando Flutt
 
 
 
-Durante este proceso se puede solicitar ayuda a la Inteligencia Artificial para:
+La Inteligencia Artificial puede ayudar a:
 
 
-
-\- Crear el proyecto.
 
 \- Indicar los comandos necesarios.
 
@@ -356,7 +360,7 @@ También se realizaron pruebas en \*\*Windows\*\* y posteriormente se generó un
 
 
 
-Las pruebas permiten comprobar:
+Las pruebas permitieron comprobar:
 
 
 
@@ -430,15 +434,7 @@ Una vez terminada y probada la aplicación, se puede solicitar ayuda a la Inteli
 
 
 
-El APK permite instalar la aplicación directamente en un dispositivo Android.
-
-
-
-El teléfono \*\*no necesita tener Flutter instalado\*\* para utilizar la aplicación.
-
-
-
-Para generar el APK se utiliza:
+El comando utilizado es:
 
 
 
