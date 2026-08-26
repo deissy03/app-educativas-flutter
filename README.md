@@ -180,6 +180,8 @@ El sistema permite al jugador avanzar progresivamente mientras practica las dife
 
 
 
+
+
 \##  Pantalla de bienvenida
 
 
@@ -240,7 +242,7 @@ El sistema permite al jugador avanzar progresivamente mientras practica las dife
 
 
 
-\## Resultados
+\## 🏆 Resultados
 
 
 
@@ -249,8 +251,6 @@ El sistema permite al jugador avanzar progresivamente mientras practica las dife
 
 
 \---
-
-
 
 \# Desarrollo con Inteligencia Artificial
 
@@ -662,7 +662,7 @@ app-educativas-flutter
 
 
 
-\# 🚀 Instalación y ejecución
+\#  Instalación y ejecución
 
 
 
@@ -812,7 +812,7 @@ app-release.apk
 
 
 
-\# 📄 Documentación del proyecto
+\#  Documentación del proyecto
 
 
 
@@ -820,7 +820,7 @@ El repositorio contiene el \*\*Expediente Técnico de Aprende Jugando\*\*, elabo
 
 
 
-📑 \*\*\[Abrir Expediente Técnico](documentacion/Expediente\_Tecnico\_Aprende\_Jugando.pdf)\*\*
+&#x20;\*\*\[Abrir Expediente Técnico](documentacion/Expediente\_Tecnico\_Aprende\_Jugando.pdf)\*\*
 
 
 
