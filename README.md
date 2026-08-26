@@ -28,6 +28,56 @@ La aplicación permite trabajar con:
 
 \---
 
+\# 📸 Capturas de pantalla
+
+
+
+\## 🏠 Bienvenida
+
+
+
+<img src="./screenshots/bienvenida.jpeg" width="300">
+
+
+
+\## 🎮 Selección de aventuras
+
+
+
+<img src="./screenshots/aventuras.jpeg" width="300">
+
+
+
+\## ➕ Sumas
+
+
+
+<img src="./screenshots/sumas.jpeg" width="300">
+
+
+
+\## ➖ Restas
+
+
+
+<img src="./screenshots/resta.jpeg" width="300">
+
+
+
+\## ✖️ Multiplicaciones
+
+
+
+<img src="./screenshots/multiplicaciones.jpeg" width="300">
+
+
+
+\## 🏆 Resultados
+
+
+
+<img src="./screenshots/resultados.jpeg" width="300">
+
 
 
 \## 📱 Sobre el proyecto
