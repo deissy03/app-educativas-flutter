@@ -2,15 +2,73 @@
 
 
 
-\## Mi primera aplicación móvil desarrollada con Flutter y Dart
+<p align="center">
 
 
 
-\*\*Aprende Jugando\*\* es una aplicación educativa diseñada para que los niños puedan practicar operaciones matemáticas básicas de una manera sencilla, interactiva y divertida.
+\#APRENDE JUGANDO
 
 
 
-La aplicación permite practicar:
+\### Aplicación educativa móvil para el aprendizaje de operaciones matemáticas
+
+
+
+\*\*Desarrollada con Flutter y Dart\*\*
+
+
+
+</p>
+
+
+
+\---
+
+
+
+\##AUTORA
+
+
+
+\### \*\*Deisy Esquivia\*\*
+
+
+
+\*\*Estudiante de Ingeniería de Sistemas\*\*
+
+
+
+\*\*Proyecto:\*\* Aprende Jugando  
+
+\*\*Tipo:\*\* Aplicación móvil educativa  
+
+\*\*Plataforma:\*\* Android  
+
+\*\*Tecnología principal:\*\* Flutter + Dart  
+
+
+
+Proyecto desarrollado como parte del proceso de aprendizaje y formación en desarrollo de aplicaciones móviles.
+
+
+
+\---
+
+
+
+\#Sobre el proyecto
+
+
+
+\*\*Aprende Jugando\*\* es una aplicación educativa móvil dirigida a niños, diseñada para practicar operaciones matemáticas básicas de una manera sencilla, interactiva y divertida.
+
+
+
+La aplicación utiliza una dinámica de juego mediante preguntas, niveles, estrellas, resultados y una mascota que acompaña al jugador durante la experiencia.
+
+
+
+Las operaciones disponibles son:
 
 
 
@@ -26,91 +84,11 @@ La aplicación permite practicar:
 
 
 
-\# 📸 Capturas de pantalla
+\#  Objetivo
 
 
 
-\## 🏠 Pantalla de bienvenida
-
-
-
-<img src="./screenshots/bienvenida.jpeg" width="300">
-
-
-
-\## 🎮 Selección de aventuras
-
-
-
-<img src="./screenshots/aventuras.jpeg" width="300">
-
-
-
-\## ➕ Sumas
-
-
-
-<img src="./screenshots/sumas.jpeg" width="300">
-
-
-
-\## ➖ Restas
-
-
-
-<img src="./screenshots/resta.jpeg" width="300">
-
-
-
-\## ✖️ Multiplicaciones
-
-
-
-<img src="./screenshots/multiplicaciones.jpeg" width="300">
-
-
-
-\## 🏆 Resultados
-
-
-
-<img src="./screenshots/resultados.jpeg" width="300">
-
-
-
-\---
-
-
-
-\# 📱 Sobre el proyecto
-
-
-
-\*\*Aprende Jugando\*\* fue desarrollado como mi primera aplicación móvil utilizando Flutter y Dart.
-
-
-
-La aplicación cuenta con diferentes niveles de dificultad y un sistema de preguntas que permite al niño avanzar mientras practica operaciones matemáticas.
-
-
-
-Cada nivel contiene \*\*10 preguntas\*\* y se necesitan como mínimo \*\*8 respuestas correctas de 10\*\* para superar el nivel.
-
-
-
-El juego también incluye estrellas, resultados y una mascota que acompaña al jugador durante la experiencia.
-
-
-
-\---
-
-
-
-\# 🎯 Objetivo
-
-
-
-El objetivo principal es crear una herramienta educativa que permita a los niños practicar matemáticas mediante una experiencia de juego.
+El objetivo principal de \*\*Aprende Jugando\*\* es apoyar el aprendizaje y la práctica de operaciones matemáticas básicas mediante una experiencia de juego interactiva.
 
 
 
@@ -120,11 +98,11 @@ La aplicación busca combinar:
 
 \- Educación
 
+\- Juego
+
 \- Tecnología
 
 \- Interactividad
-
-\- Juego
 
 \- Diseño visual
 
@@ -134,47 +112,31 @@ La aplicación busca combinar:
 
 
 
-\# ⭐ Características principales
+\# Características principales
 
 
 
-\- 🎮 Tres niveles de juego
+\-  3 niveles de juego.
 
-\- 📝 10 preguntas por nivel
+\-  10 preguntas por nivel.
 
-\- ✅ Respuestas correctas e incorrectas
+\-  Mínimo 8 respuestas correctas para superar cada nivel.
 
-\- ⭐ Sistema de estrellas
+\-  Sistema de estrellas.
 
-\- 🏆 Sistema de resultados
+\- Sistema de resultados.
 
-\- 🐶 Mascota interactiva
+\- Mascota interactiva.
 
-\- ➕ Sumas
+\- ➕ Sumas.
 
-\- ➖ Restas
+\- ➖ Restas.
 
-\- ✖️ Multiplicaciones
+\- ✖️ Multiplicaciones.
 
-\- 📱 Aplicación para dispositivos Android
+\-  Aplicación para dispositivos Android.
 
-\- 📶 Funcionamiento sin conexión a Internet
-
-
-
-\---
-
-
-
-\# 🤖 Desarrollo con Inteligencia Artificial
-
-
-
-Durante el desarrollo de esta aplicación se utilizó Inteligencia Artificial como herramienta de apoyo para aprender, planificar, desarrollar, solucionar errores y documentar el proyecto.
-
-
-
-La IA fue utilizada como apoyo al aprendizaje y no como sustituto de las pruebas y revisión del código.
+\-  Puede utilizarse sin conexión a Internet.
 
 
 
@@ -182,7 +144,131 @@ La IA fue utilizada como apoyo al aprendizaje y no como sustituto de las pruebas
 
 
 
-\## 1. 💡 Crear un buen prompt
+\# Sistema de niveles
+
+
+
+La aplicación cuenta con \*\*3 niveles\*\*.
+
+
+
+Cada nivel contiene:
+
+
+
+\*\*10 preguntas\*\*
+
+
+
+Para superar un nivel se necesitan como mínimo:
+
+
+
+\*\*8 respuestas correctas de 10\*\*
+
+
+
+El sistema permite al jugador avanzar progresivamente mientras practica las diferentes operaciones matemáticas.
+
+
+
+\---
+
+
+
+\#  Capturas de pantalla
+
+
+
+\##  Pantalla de bienvenida
+
+
+
+!\[Pantalla de bienvenida](screenshots/bienvenida.jpeg)
+
+
+
+\---
+
+
+
+\## Selección de aventuras
+
+
+
+!\[Selección de aventuras](screenshots/aventuras.jpeg)
+
+
+
+\---
+
+
+
+\## ➕ Sumas
+
+
+
+!\[Pantalla de sumas](screenshots/sumas.jpeg)
+
+
+
+\---
+
+
+
+\## ➖ Restas
+
+
+
+!\[Pantalla de restas](screenshots/resta.jpeg)
+
+
+
+\---
+
+
+
+\## ✖️ Multiplicaciones
+
+
+
+!\[Pantalla de multiplicaciones](screenshots/multiplicaciones.jpeg)
+
+
+
+\---
+
+
+
+\## Resultados
+
+
+
+!\[Pantalla de resultados](screenshots/resultados.jpeg)
+
+
+
+\---
+
+
+
+\# Desarrollo con Inteligencia Artificial
+
+
+
+Durante el desarrollo de \*\*Aprende Jugando\*\* se utilizó Inteligencia Artificial como herramienta de apoyo para aprender, planificar, desarrollar, solucionar errores y documentar el proyecto.
+
+
+
+La IA fue utilizada como apoyo durante diferentes etapas del desarrollo, mientras que el código y el funcionamiento de la aplicación fueron revisados y probados durante el proceso.
+
+
+
+\---
+
+
+
+\# 1. Crear un buen prompt
 
 
 
@@ -190,7 +276,7 @@ El primer paso consiste en explicar correctamente a la Inteligencia Artificial q
 
 
 
-El prompt debe indicar claramente:
+Para obtener una orientación más precisa, el prompt debe explicar:
 
 
 
@@ -216,7 +302,7 @@ El prompt debe indicar claramente:
 
 
 
-Mientras más clara sea la información proporcionada, más precisa puede ser la orientación de la IA.
+Mientras más clara y detallada sea la información proporcionada, más precisa puede ser la orientación recibida.
 
 
 
@@ -228,21 +314,19 @@ Mientras más clara sea la información proporcionada, más precisa puede ser la
 
 
 
-Durante el desarrollo del proyecto también se puede solicitar a la Inteligencia Artificial la elaboración de un expediente técnico.
+Durante el desarrollo del proyecto también se solicitó apoyo para elaborar un \*\*Expediente Técnico\*\* de la aplicación.
 
 
 
-El expediente técnico permite documentar detalladamente la aplicación y conservar información importante sobre el proceso de desarrollo.
+El expediente técnico permite documentar detalladamente el proyecto y conservar información importante sobre el proceso de desarrollo.
 
 
 
-Puede incluir:
+El documento incluye información relacionada con:
 
 
 
 \- Descripción del proyecto.
-
-\- Planteamiento del proyecto.
 
 \- Objetivos.
 
@@ -272,7 +356,15 @@ Puede incluir:
 
 
 
-El expediente técnico puede solicitarse en formato PDF para conservar la documentación completa del proyecto.
+\### Expediente técnico
+
+
+
+El expediente técnico se encuentra dentro del repositorio:
+
+
+
+\*\*\[ Ver Expediente Técnico](documentacion/Expediente\_Tecnico\_Aprende\_Jugando.pdf)\*\*
 
 
 
@@ -280,27 +372,27 @@ El expediente técnico puede solicitarse en formato PDF para conservar la docume
 
 
 
-\# 💻 3. Preparar el entorno de desarrollo
+\# 3. Preparación del entorno de desarrollo
 
 
 
-Para desarrollar la aplicación móvil fue necesario preparar el entorno de desarrollo.
+Para desarrollar la aplicación móvil se instaló y configuró el entorno necesario para trabajar con Flutter.
 
 
 
-En este proyecto se utilizaron:
+\### Herramientas utilizadas
 
 
 
-\- Flutter
+\- \*\*Flutter\*\*
 
-\- Dart
+\- \*\*Dart\*\*
 
-\- Android Studio
+\- \*\*PowerShell\*\*
 
-\- Visual Studio Code
+\- \*\*Android Studio\*\*
 
-\- PowerShell
+\- \*\*Visual Studio Code\*\*
 
 
 
@@ -312,73 +404,41 @@ PowerShell se utilizó para ejecutar los comandos necesarios durante la creació
 
 
 
-\# 🛠️ 4. Crear el proyecto con Flutter
+\#  4. Creación del proyecto
 
 
 
-Una vez preparado el entorno de desarrollo, se crea el proyecto utilizando Flutter.
+Una vez preparado el entorno de desarrollo, se creó el proyecto utilizando Flutter.
 
 
 
-La Inteligencia Artificial puede ayudar a:
+La Inteligencia Artificial permitió recibir orientación sobre:
 
 
 
-\- Indicar los comandos necesarios.
+\- Comandos de Flutter.
 
-\- Explicar dónde crear el proyecto.
+\- Ubicación del proyecto.
 
-\- Explicar la estructura de las carpetas.
+\- Organización de carpetas.
 
-\- Indicar dónde se encuentran los archivos.
+\- Ejecución de la aplicación.
 
-\- Orientar sobre los archivos que deben modificarse.
+\- Solución de errores.
 
-
-
-También se puede indicar a la IA la ubicación exacta donde fue creado el proyecto para continuar trabajando sobre esa carpeta.
+\- Generación del APK.
 
 
 
-\---
+La ubicación utilizada para el proyecto fue:
 
 
 
-\# ▶️ 5. Ejecutar y probar la aplicación
+```text
 
+C:\\CURSOAPP\\APPS\_EDUCATIVAS\\aprende\_jugando
 
-
-Durante el desarrollo, la aplicación puede ejecutarse y probarse en diferentes dispositivos.
-
-
-
-En este proyecto se utilizó \*\*Chrome\*\* para visualizar y probar la aplicación durante el desarrollo.
-
-
-
-También se realizaron pruebas en \*\*Windows\*\* y posteriormente se generó una versión para Android.
-
-
-
-Las pruebas permitieron comprobar:
-
-
-
-\- Navegación.
-
-\- Botones.
-
-\- Preguntas.
-
-\- Respuestas.
-
-\- Niveles.
-
-\- Sistema de estrellas.
-
-\- Resultados.
-
-\- Diseño de las pantallas.
+```
 
 
 
@@ -386,15 +446,39 @@ Las pruebas permitieron comprobar:
 
 
 
-\# 🧩 6. Desarrollar las funcionalidades
+\#  5. Ejecución y pruebas
 
 
 
-La Inteligencia Artificial puede utilizarse como herramienta de apoyo durante la programación.
+Durante el desarrollo, la aplicación fue ejecutada y probada para verificar su funcionamiento.
 
 
 
-Puede ayudar a:
+\### Entornos utilizados
+
+
+
+\-  Chrome
+
+\-  Windows
+
+\- Android mediante APK
+
+
+
+Chrome permitió visualizar la aplicación durante el proceso de desarrollo y comprobar los cambios realizados en la interfaz y en la lógica del juego.
+
+
+
+\---
+
+
+
+\#  6. Desarrollo de funcionalidades
+
+
+
+La Inteligencia Artificial se utilizó como herramienta de apoyo para:
 
 
 
@@ -418,7 +502,7 @@ Puede ayudar a:
 
 
 
-La IA funciona como una herramienta de apoyo al aprendizaje y al desarrollo, mientras que el proyecto debe ser probado y revisado durante todo el proceso.
+La IA funciona como una herramienta de apoyo al aprendizaje y al desarrollo, mientras que el proyecto es probado y revisado durante todo el proceso.
 
 
 
@@ -426,19 +510,483 @@ La IA funciona como una herramienta de apoyo al aprendizaje y al desarrollo, mie
 
 
 
-\# 📱 7. Generar el APK
+\# 7. Generación del APK
 
 
 
-Una vez terminada y probada la aplicación, se puede solicitar ayuda a la Inteligencia Artificial para generar el APK de Android.
+Una vez terminada y probada la aplicación, se generó una versión APK para Android.
 
 
 
-El comando utilizado es:
+El APK permite instalar la aplicación directamente en un dispositivo Android sin necesidad de instalar Flutter en el teléfono.
+
+
+
+\### Comando utilizado
 
 
 
 ```bash
 
 flutter build apk --release
+
+```
+
+
+
+El archivo generado se encuentra en:
+
+
+
+```text
+
+build/app/outputs/flutter-apk/app-release.apk
+
+```
+
+
+
+\###  Versión
+
+
+
+\*\*Aprende Jugando v1.0.0\*\*
+
+
+
+\*\*Plataforma:\*\* Android
+
+
+
+\---
+
+
+
+\#  8. Aprendizajes obtenidos
+
+
+
+Durante el desarrollo del proyecto se fortalecieron conocimientos relacionados con:
+
+
+
+\- Desarrollo de aplicaciones móviles.
+
+\- Flutter.
+
+\- Dart.
+
+\- Diseño de interfaces.
+
+\- Lógica de programación.
+
+\- Solución de errores.
+
+\- Pruebas de aplicaciones.
+
+\- Uso de PowerShell.
+
+\- Generación de APK.
+
+\- Documentación técnica.
+
+\- Uso de Inteligencia Artificial como herramienta de apoyo.
+
+
+
+\---
+
+
+
+\# Estructura del proyecto
+
+
+
+```text
+
+app-educativas-flutter
+
+│
+
+├── android
+
+├── assets
+
+├── documentacion
+
+│   └── Expediente\_Tecnico\_Aprende\_Jugando.pdf
+
+│
+
+├── ios
+
+├── lib
+
+│
+
+├── screenshots
+
+│   ├── bienvenida.jpeg
+
+│   ├── aventuras.jpeg
+
+│   ├── sumas.jpeg
+
+│   ├── resta.jpeg
+
+│   ├── multiplicaciones.jpeg
+
+│   └── resultados.jpeg
+
+│
+
+├── test
+
+├── web
+
+├── windows
+
+│
+
+├── README.md
+
+├── pubspec.yaml
+
+└── pubspec.lock
+
+```
+
+
+
+\---
+
+
+
+\# 🚀 Instalación y ejecución
+
+
+
+\## Requisitos
+
+
+
+Para ejecutar el proyecto se requiere tener instalado:
+
+
+
+\- Flutter
+
+\- Dart
+
+\- Android Studio
+
+\- Visual Studio Code
+
+
+
+\---
+
+
+
+\##  Instalar dependencias
+
+
+
+Desde la carpeta principal del proyecto:
+
+
+
+```bash
+
+flutter pub get
+
+```
+
+
+
+\---
+
+
+
+\##  Ejecutar la aplicación
+
+
+
+```bash
+
+flutter run
+
+```
+
+
+
+\---
+
+
+
+\##  Ejecutar en Chrome
+
+
+
+Para visualizar la aplicación en Chrome:
+
+
+
+```bash
+
+flutter run -d chrome
+
+```
+
+
+
+\---
+
+
+
+\# Generar una nueva versión APK
+
+
+
+Para generar el APK de producción:
+
+
+
+```bash
+
+flutter build apk --release
+
+```
+
+
+
+El archivo se generará en:
+
+
+
+```text
+
+build/app/outputs/flutter-apk/app-release.apk
+
+```
+
+
+
+\---
+
+
+
+\# Descargar APK
+
+
+
+La versión Android del proyecto se publicará en la sección \*\*Releases\*\* del repositorio.
+
+
+
+\### Versión disponible
+
+
+
+\*\*Aprende Jugando v1.0.0\*\*
+
+
+
+&#x20;Archivo:
+
+
+
+```text
+
+app-release.apk
+
+```
+
+
+
+> El enlace de descarga se incorporará en esta sección una vez publicada la Release en GitHub.
+
+
+
+\---
+
+
+
+\# 📄 Documentación del proyecto
+
+
+
+El repositorio contiene el \*\*Expediente Técnico de Aprende Jugando\*\*, elaborado para documentar el desarrollo completo de la aplicación.
+
+
+
+📑 \*\*\[Abrir Expediente Técnico](documentacion/Expediente\_Tecnico\_Aprende\_Jugando.pdf)\*\*
+
+
+
+\---
+
+
+
+\#  Documentación y recursos
+
+
+
+El repositorio contiene:
+
+
+
+| Recurso | Descripción |
+
+|---|---|
+
+|  Aplicación | Proyecto desarrollado con Flutter |
+
+| Expediente técnico | Documentación detallada del proyecto |
+
+| Capturas | Evidencias visuales de la aplicación |
+
+| README | Información y documentación del proyecto |
+
+| APK | Versión instalable para Android |
+
+
+
+\---
+
+
+
+\# Información de la autora
+
+
+
+\## \*\*Deisy Esquivia\*\*
+
+
+
+\*\*Estudiante de Ingeniería de Sistemas\*\*
+
+
+
+\### Proyecto
+
+
+
+\*\*Aprende Jugando\*\*
+
+
+
+\### Rol
+
+
+
+\*\*Desarrollo y documentación del proyecto\*\*
+
+
+
+\### Área
+
+
+
+\*\*Desarrollo de aplicaciones móviles\*\*
+
+
+
+\### Tecnologías utilizadas
+
+
+
+\- Flutter
+
+\- Dart
+
+\- Android Studio
+
+\- Visual Studio Code
+
+\- PowerShell
+
+
+
+\### Descripción
+
+
+
+Proyecto desarrollado como parte del proceso de aprendizaje en desarrollo de aplicaciones móviles.
+
+
+
+Durante el proyecto se integraron conocimientos de programación, diseño, pruebas, documentación y herramientas de Inteligencia Artificial como apoyo al proceso de desarrollo.
+
+
+
+\---
+
+
+
+\# Proyecto académico
+
+
+
+\*\*Aprende Jugando\*\* representa un proceso de aprendizaje en el desarrollo de aplicaciones móviles, integrando programación, diseño, pruebas, documentación y herramientas tecnológicas.
+
+
+
+\---
+
+
+
+\#  Estado del proyecto
+
+
+
+\*\*Versión:\*\* 1.0.0
+
+
+
+\*\*Estado:\*\* Proyecto funcional
+
+
+
+\*\*Plataforma:\*\* Android
+
+
+
+\*\*Tecnología:\*\* Flutter + Dart
+
+
+
+\---
+
+
+
+\# Aprende Jugando
+
+
+
+> \*\*Aprender también puede ser divertido.\*\*
+
+
+
+\---
+
+
+
+<p align="center">
+
+
+
+\### Desarrollado por \*\*Deisy Esquivia\*\*
+
+
+
+\*\*Ingeniería de Sistemas\*\*
+
+
+
+© 2026 Deisy Esquivia
+
+
+
+</p>
 
