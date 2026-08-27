@@ -1,98 +1,98 @@
-\# Aprende Jugando
+﻿# Aprende Jugando
 
 
 
-\## Aplicación educativa móvil desarrollada con Flutter y Dart
+## AplicaciÃ³n educativa mÃ³vil desarrollada con Flutter y Dart
 
 
 
-\*\*Autora:\*\* Deisy Esquivia  
+**Autora:** Deisy Esquivia  
 
-\*\*Programa:\*\* Ingeniería de Sistemas  
+**Programa:** IngenierÃ­a de Sistemas  
 
-\*\*Plataforma:\*\* Android  
+**Plataforma:** Android  
 
-\*\*Versión:\*\* 1.0.0
+**VersiÃ³n:** 1.0.0
 
 
 
-\---
+---
 
 
 
-\## Autora
+## Autora
 
 
 
-\### Deisy Esquivia
+### Deisy Esquivia
 
 
 
-Estudiante de Ingeniería de Sistemas.
+Estudiante de IngenierÃ­a de Sistemas.
 
 
 
-\*\*Aprende Jugando\*\* es un proyecto de desarrollo de una aplicación móvil educativa realizado como parte del proceso de aprendizaje y formación en desarrollo de aplicaciones móviles.
+**Aprende Jugando** es un proyecto de desarrollo de una aplicaciÃ³n mÃ³vil educativa realizado como parte del proceso de aprendizaje y formaciÃ³n en desarrollo de aplicaciones mÃ³viles.
 
 
 
-El proyecto integra programación, diseño de interfaces, lógica de programación, pruebas, documentación técnica y generación de una aplicación para dispositivos Android.
+El proyecto integra programaciÃ³n, diseÃ±o de interfaces, lÃ³gica de programaciÃ³n, pruebas, documentaciÃ³n tÃ©cnica y generaciÃ³n de una aplicaciÃ³n para dispositivos Android.
 
 
 
-\---
+---
 
 
 
-\## Descripción del proyecto
+## DescripciÃ³n del proyecto
 
 
 
-Aprende Jugando es una aplicación educativa móvil dirigida a niños para practicar operaciones matemáticas básicas de una manera sencilla, interactiva y divertida.
+Aprende Jugando es una aplicaciÃ³n educativa mÃ³vil dirigida a niÃ±os para practicar operaciones matemÃ¡ticas bÃ¡sicas de una manera sencilla, interactiva y divertida.
 
 
 
-La aplicación permite practicar:
+La aplicaciÃ³n permite practicar:
 
 
 
-\- Sumas
+- Sumas
 
-\- Restas
+- Restas
 
-\- Multiplicaciones
+- Multiplicaciones
 
 
 
-El juego utiliza preguntas, niveles, estrellas, resultados y una mascota que acompaña al jugador durante la experiencia.
+El juego utiliza preguntas, niveles, estrellas, resultados y una mascota que acompaÃ±a al jugador durante la experiencia.
 
 
 
-\---
+---
 
 
 
-\## Objetivo
+## Objetivo
 
 
 
-El objetivo de Aprende Jugando es apoyar el aprendizaje y la práctica de operaciones matemáticas básicas mediante una experiencia de juego interactiva.
+El objetivo de Aprende Jugando es apoyar el aprendizaje y la prÃ¡ctica de operaciones matemÃ¡ticas bÃ¡sicas mediante una experiencia de juego interactiva.
 
 
 
-La aplicación busca combinar educación, tecnología, interacción y una experiencia de usuario sencilla para niños.
+La aplicaciÃ³n busca combinar educaciÃ³n, tecnologÃ­a, interacciÃ³n y una experiencia de usuario sencilla para niÃ±os.
 
 
 
-\---
+---
 
 
 
-\## Sistema de niveles
+## Sistema de niveles
 
 
 
-La aplicación cuenta con tres niveles.
+La aplicaciÃ³n cuenta con tres niveles.
 
 
 
@@ -100,59 +100,59 @@ Cada nivel contiene diez preguntas.
 
 
 
-Para superar un nivel se necesitan como mínimo ocho respuestas correctas de diez.
+Para superar un nivel se necesitan como mÃ­nimo ocho respuestas correctas de diez.
 
 
 
-El sistema permite que el jugador avance progresivamente mientras practica las diferentes operaciones matemáticas.
+El sistema permite que el jugador avance progresivamente mientras practica las diferentes operaciones matemÃ¡ticas.
 
 
 
-\---
+---
 
 
 
-\## Características principales
+## CaracterÃ­sticas principales
 
 
 
-\- Tres niveles de juego.
+- Tres niveles de juego.
 
-\- Diez preguntas por nivel.
+- Diez preguntas por nivel.
 
-\- Mínimo ocho respuestas correctas para superar cada nivel.
+- MÃ­nimo ocho respuestas correctas para superar cada nivel.
 
-\- Sistema de estrellas.
+- Sistema de estrellas.
 
-\- Sistema de resultados.
+- Sistema de resultados.
 
-\- Mascota interactiva.
+- Mascota interactiva.
 
-\- Sumas.
+- Sumas.
 
-\- Restas.
+- Restas.
 
-\- Multiplicaciones.
+- Multiplicaciones.
 
-\- Aplicación para dispositivos Android.
+- AplicaciÃ³n para dispositivos Android.
 
-\- Funcionamiento sin conexión a Internet.
-
-
-
-\---
+- Funcionamiento sin conexiÃ³n a Internet.
 
 
 
-\# Capturas de pantalla
+---
 
 
 
-\# Capturas de pantalla
+# Capturas de pantalla
 
 
 
-\## Pantalla de bienvenida
+# Capturas de pantalla
+
+
+
+## Pantalla de bienvenida
 
 
 
@@ -160,23 +160,23 @@ El sistema permite que el jugador avance progresivamente mientras practica las d
 
 
 
-\---
+---
 
 
 
-\## Selección de aventuras
+## SelecciÃ³n de aventuras
 
 
 
-<img src="https://raw.githubusercontent.com/deissy03/app-educativas-flutter/master/screenshots/aventuras.jpeg" alt="Selección de aventuras" width="500">
+<img src="https://raw.githubusercontent.com/deissy03/app-educativas-flutter/master/screenshots/aventuras.jpeg" alt="SelecciÃ³n de aventuras" width="500">
 
 
 
-\---
+---
 
 
 
-\## Sumas
+## Sumas
 
 
 
@@ -184,11 +184,11 @@ El sistema permite que el jugador avance progresivamente mientras practica las d
 
 
 
-\---
+---
 
 
 
-\## Restas
+## Restas
 
 
 
@@ -196,11 +196,11 @@ El sistema permite que el jugador avance progresivamente mientras practica las d
 
 
 
-\---
+---
 
 
 
-\## Multiplicaciones
+## Multiplicaciones
 
 
 
@@ -208,11 +208,11 @@ El sistema permite que el jugador avance progresivamente mientras practica las d
 
 
 
-\---
+---
 
 
 
-\## Resultados
+## Resultados
 
 
 
@@ -220,31 +220,31 @@ El sistema permite que el jugador avance progresivamente mientras practica las d
 
 
 
-\---
+---
 
 
 
-\# Desarrollo con Inteligencia Artificial
+# Desarrollo con Inteligencia Artificial
 
 
 
-Durante el desarrollo de Aprende Jugando se utilizó Inteligencia Artificial como herramienta de apoyo para aprender, planificar, desarrollar, solucionar errores y documentar el proyecto.
+Durante el desarrollo de Aprende Jugando se utilizÃ³ Inteligencia Artificial como herramienta de apoyo para aprender, planificar, desarrollar, solucionar errores y documentar el proyecto.
 
 
 
-La Inteligencia Artificial fue utilizada como apoyo durante diferentes etapas del desarrollo, mientras que el funcionamiento de la aplicación fue revisado y probado durante el proceso.
+La Inteligencia Artificial fue utilizada como apoyo durante diferentes etapas del desarrollo, mientras que el funcionamiento de la aplicaciÃ³n fue revisado y probado durante el proceso.
 
 
 
-\---
+---
 
 
 
-\## 1. Crear un buen prompt
+## 1. Crear un buen prompt
 
 
 
-El primer paso consiste en explicar correctamente a la Inteligencia Artificial qué aplicación se desea desarrollar.
+El primer paso consiste en explicar correctamente a la Inteligencia Artificial quÃ© aplicaciÃ³n se desea desarrollar.
 
 
 
@@ -252,157 +252,157 @@ El prompt debe indicar claramente:
 
 
 
-\- Nombre de la aplicación.
+- Nombre de la aplicaciÃ³n.
 
-\- Objetivo.
+- Objetivo.
 
-\- Usuarios.
+- Usuarios.
 
-\- Funcionalidades.
+- Funcionalidades.
 
-\- Pantallas.
+- Pantallas.
 
-\- Diseño visual.
+- DiseÃ±o visual.
 
-\- Colores.
+- Colores.
 
-\- Navegación.
+- NavegaciÃ³n.
 
-\- Reglas del juego.
+- Reglas del juego.
 
-\- Tecnologías que se desean utilizar.
+- TecnologÃ­as que se desean utilizar.
 
 
 
-Mientras más clara y detallada sea la información proporcionada, más precisa puede ser la orientación recibida.
+Mientras mÃ¡s clara y detallada sea la informaciÃ³n proporcionada, mÃ¡s precisa puede ser la orientaciÃ³n recibida.
 
 
 
-\---
+---
 
 
 
-\## 2. Crear el expediente técnico
+## 2. Crear el expediente tÃ©cnico
 
 
 
-Durante el desarrollo del proyecto se solicitó apoyo para elaborar un expediente técnico de la aplicación.
+Durante el desarrollo del proyecto se solicitÃ³ apoyo para elaborar un expediente tÃ©cnico de la aplicaciÃ³n.
 
 
 
-El expediente técnico permite documentar detalladamente el proyecto y conservar información importante sobre el proceso de desarrollo.
+El expediente tÃ©cnico permite documentar detalladamente el proyecto y conservar informaciÃ³n importante sobre el proceso de desarrollo.
 
 
 
-El documento incluye información relacionada con:
+El documento incluye informaciÃ³n relacionada con:
 
 
 
-\- Descripción del proyecto.
+- DescripciÃ³n del proyecto.
 
-\- Objetivos.
+- Objetivos.
 
-\- Alcance.
+- Alcance.
 
-\- Requerimientos funcionales.
+- Requerimientos funcionales.
 
-\- Requerimientos no funcionales.
+- Requerimientos no funcionales.
 
-\- Diseño de la aplicación.
+- DiseÃ±o de la aplicaciÃ³n.
 
-\- Estructura de las pantallas.
+- Estructura de las pantallas.
 
-\- Navegación.
+- NavegaciÃ³n.
 
-\- Tecnologías utilizadas.
+- TecnologÃ­as utilizadas.
 
-\- Lógica de funcionamiento.
+- LÃ³gica de funcionamiento.
 
-\- Recursos utilizados.
+- Recursos utilizados.
 
-\- Pruebas.
+- Pruebas.
 
-\- Instalación.
+- InstalaciÃ³n.
 
-\- Generación del APK.
+- GeneraciÃ³n del APK.
 
 
 
-\## Expediente técnico
+## Expediente tÃ©cnico
 
 
 
-El expediente técnico se encuentra dentro del repositorio.
+El expediente tÃ©cnico se encuentra dentro del repositorio.
 
 
 
-\[Consultar Expediente Técnico](documentacion/Expediente\_Tecnico\_Aprende\_Jugando.pdf)
+\[Consultar Expediente TÃ©cnico](documentacion/Expediente\_Tecnico\_Aprende\_Jugando.pdf)
 
 
 
-\---
+---
 
 
 
-\## 3. Preparación del entorno de desarrollo
+## 3. PreparaciÃ³n del entorno de desarrollo
 
 
 
-Para desarrollar la aplicación móvil se instaló y configuró el entorno necesario para trabajar con Flutter.
+Para desarrollar la aplicaciÃ³n mÃ³vil se instalÃ³ y configurÃ³ el entorno necesario para trabajar con Flutter.
 
 
 
-\### Herramientas utilizadas
+### Herramientas utilizadas
 
 
 
-\- Flutter
+- Flutter
 
-\- Dart
+- Dart
 
-\- PowerShell
+- PowerShell
 
-\- Android Studio
+- Android Studio
 
-\- Visual Studio Code
+- Visual Studio Code
 
 
 
-PowerShell se utilizó para ejecutar los comandos necesarios durante la creación, configuración, ejecución y compilación del proyecto.
+PowerShell se utilizÃ³ para ejecutar los comandos necesarios durante la creaciÃ³n, configuraciÃ³n, ejecuciÃ³n y compilaciÃ³n del proyecto.
 
 
 
-\---
+---
 
 
 
-\## 4. Creación del proyecto
+## 4. CreaciÃ³n del proyecto
 
 
 
-Una vez preparado el entorno de desarrollo, se creó el proyecto utilizando Flutter.
+Una vez preparado el entorno de desarrollo, se creÃ³ el proyecto utilizando Flutter.
 
 
 
-La Inteligencia Artificial permitió recibir orientación sobre:
+La Inteligencia Artificial permitiÃ³ recibir orientaciÃ³n sobre:
 
 
 
-\- Comandos de Flutter.
+- Comandos de Flutter.
 
-\- Ubicación del proyecto.
+- UbicaciÃ³n del proyecto.
 
-\- Organización de carpetas.
+- OrganizaciÃ³n de carpetas.
 
-\- Ejecución de la aplicación.
+- EjecuciÃ³n de la aplicaciÃ³n.
 
-\- Solución de errores.
+- SoluciÃ³n de errores.
 
-\- Generación del APK.
+- GeneraciÃ³n del APK.
 
 
 
-La ubicación utilizada para el proyecto fue:
+La ubicaciÃ³n utilizada para el proyecto fue:
 
 
 
@@ -414,59 +414,59 @@ C:\\CURSOAPP\\APPS\_EDUCATIVAS\\aprende\_jugando
 
 
 
-\---
+---
 
 
 
-\## 5. Ejecución y pruebas
+## 5. EjecuciÃ³n y pruebas
 
 
 
-Durante el desarrollo, la aplicación fue ejecutada y probada para verificar su funcionamiento.
+Durante el desarrollo, la aplicaciÃ³n fue ejecutada y probada para verificar su funcionamiento.
 
 
 
-Para visualizar y probar la aplicación durante el desarrollo se utilizó Chrome.
+Para visualizar y probar la aplicaciÃ³n durante el desarrollo se utilizÃ³ Chrome.
 
 
 
-También se generó una versión para Android mediante un archivo APK.
+TambiÃ©n se generÃ³ una versiÃ³n para Android mediante un archivo APK.
 
 
 
-Las pruebas permitieron verificar la navegación, las operaciones matemáticas, los niveles, las respuestas, las estrellas y los resultados.
+Las pruebas permitieron verificar la navegaciÃ³n, las operaciones matemÃ¡ticas, los niveles, las respuestas, las estrellas y los resultados.
 
 
 
-\---
+---
 
 
 
-\## 6. Desarrollo de funcionalidades
+## 6. Desarrollo de funcionalidades
 
 
 
-La Inteligencia Artificial se utilizó como herramienta de apoyo para:
+La Inteligencia Artificial se utilizÃ³ como herramienta de apoyo para:
 
 
 
-\- Crear código.
+- Crear cÃ³digo.
 
-\- Explicar código.
+- Explicar cÃ³digo.
 
-\- Detectar errores.
+- Detectar errores.
 
-\- Corregir errores.
+- Corregir errores.
 
-\- Mejorar interfaces.
+- Mejorar interfaces.
 
-\- Implementar funcionalidades.
+- Implementar funcionalidades.
 
-\- Explicar comandos.
+- Explicar comandos.
 
-\- Organizar el proyecto.
+- Organizar el proyecto.
 
-\- Orientar sobre la estructura de Flutter.
+- Orientar sobre la estructura de Flutter.
 
 
 
@@ -474,19 +474,19 @@ La Inteligencia Artificial funciona como una herramienta de apoyo al aprendizaje
 
 
 
-\---
+---
 
 
 
-\## 7. Generación del APK
+## 7. GeneraciÃ³n del APK
 
 
 
-Una vez terminada y probada la aplicación, se generó una versión APK para Android.
+Una vez terminada y probada la aplicaciÃ³n, se generÃ³ una versiÃ³n APK para Android.
 
 
 
-El APK permite instalar la aplicación directamente en un dispositivo Android sin necesidad de instalar Flutter en el teléfono.
+El APK permite instalar la aplicaciÃ³n directamente en un dispositivo Android sin necesidad de instalar Flutter en el telÃ©fono.
 
 
 
@@ -514,35 +514,35 @@ build/app/outputs/flutter-apk/app-release.apk
 
 
 
-\---
+---
 
 
 
-\# Tecnologías utilizadas
+# TecnologÃ­as utilizadas
 
 
 
-\- Flutter
+- Flutter
 
-\- Dart
+- Dart
 
-\- Android Studio
+- Android Studio
 
-\- Visual Studio Code
+- Visual Studio Code
 
-\- PowerShell
-
-
-
-\---
+- PowerShell
 
 
 
-\# Instalación y ejecución
+---
 
 
 
-\## Requisitos
+# InstalaciÃ³n y ejecuciÃ³n
+
+
+
+## Requisitos
 
 
 
@@ -550,17 +550,17 @@ Para ejecutar el proyecto se requiere tener instalado:
 
 
 
-\- Flutter
+- Flutter
 
-\- Dart
+- Dart
 
-\- Android Studio
+- Android Studio
 
-\- Visual Studio Code
+- Visual Studio Code
 
 
 
-\## Instalar dependencias
+## Instalar dependencias
 
 
 
@@ -576,7 +576,7 @@ flutter pub get
 
 
 
-\## Ejecutar la aplicación
+## Ejecutar la aplicaciÃ³n
 
 
 
@@ -588,7 +588,7 @@ flutter run
 
 
 
-\## Ejecutar en Chrome
+## Ejecutar en Chrome
 
 
 
@@ -600,7 +600,7 @@ flutter run -d chrome
 
 
 
-\## Generar APK
+## Generar APK
 
 
 
@@ -616,7 +616,7 @@ El APK se genera en:
 
 
 
-
+```text
 
 build/app/outputs/flutter-apk/app-release.apk
 
@@ -624,122 +624,127 @@ build/app/outputs/flutter-apk/app-release.apk
 
 
 
-\---
+---
 
 
 
-\# Estructura del proyecto
+# Estructura del proyecto
 
 
 
-
+```text
 
 app-educativas-flutter
 
-│
+â”‚
 
-├── android
+â”œâ”€â”€ android
 
-├── assets
+â”œâ”€â”€ assets
 
-├── documentacion
+â”œâ”€â”€ documentacion
 
-│   └── Expediente\_Tecnico\_Aprende\_Jugando.pdf
+â”‚   â””â”€â”€ Expediente\_Tecnico\_Aprende\_Jugando.pdf
 
-│
+â”‚
 
-├── ios
+â”œâ”€â”€ ios
 
-├── lib
+â”œâ”€â”€ lib
 
-│
+â”‚
 
-├── screenshots
+â”œâ”€â”€ screenshots
 
-│   ├── bienvenida.jpeg
+â”‚   â”œâ”€â”€ bienvenida.jpeg
 
-│   ├── aventuras.jpeg
+â”‚   â”œâ”€â”€ aventuras.jpeg
 
-│   ├── sumas.jpeg
+â”‚   â”œâ”€â”€ sumas.jpeg
 
-│   ├── resta.jpeg
+â”‚   â”œâ”€â”€ resta.jpeg
 
-│   ├── multiplicaciones.jpeg
+â”‚   â”œâ”€â”€ multiplicaciones.jpeg
 
-│   └── resultados.jpeg
+â”‚   â””â”€â”€ resultados.jpeg
 
-│
+â”‚
 
-├── test
+â”œâ”€â”€ test
 
-├── web
+â”œâ”€â”€ web
 
-├── windows
+â”œâ”€â”€ windows
 
-│
+â”‚
 
-├── README.md
+â”œâ”€â”€ README.md
 
-├── pubspec.yaml
+â”œâ”€â”€ pubspec.yaml
 
-└── pubspec.lock
+â””â”€â”€ pubspec.lock
 
+```
 
 
 
-\---
+---
 
 
 
-\# Documentación del proyecto
+# DocumentaciÃ³n del proyecto
 
 
 
-El repositorio contiene un expediente técnico en formato PDF donde se documenta el desarrollo de la aplicación, incluyendo sus características, requerimientos, diseño, funcionamiento, pruebas, instalación y generación del APK.
+El repositorio contiene un expediente tÃ©cnico en formato PDF donde se documenta el desarrollo de la aplicaciÃ³n, incluyendo sus caracterÃ­sticas, requerimientos, diseÃ±o, funcionamiento, pruebas, instalaciÃ³n y generaciÃ³n del APK.
 
 
 
-\[Ver Expediente Técnico](documentacion/Expediente\_Tecnico\_Aprende\_Jugando.pdf)
+\[Ver Expediente TÃ©cnico](documentacion/Expediente\_Tecnico\_Aprende\_Jugando.pdf)
 
 
 
-\---
+---
 
 
 
-\# Versión del proyecto
+# VersiÃ³n del proyecto
 
 
 
-\*\*Nombre:\*\* Aprende Jugando
+**Nombre:** Aprende Jugando
 
 
 
-\*\*Versión:\*\* 1.0.0
+**VersiÃ³n:** 1.0.0
 
 
 
-\*\*Plataforma:\*\* Android
+**Plataforma:** Android
 
 
 
-\*\*Tecnología principal:\*\* Flutter
+**TecnologÃ­a principal:** Flutter
 
 
 
-\*\*Lenguaje:\*\* Dart
+**Lenguaje:** Dart
 
 
 
-\*\*Estado:\*\* Proyecto funcional
+**Estado:** Proyecto funcional
 
 
 
-\# APK
+---
 
 
 
-La aplicación cuenta con una versión APK para dispositivos Android.
+# APK
+
+
+
+La aplicaciÃ³n cuenta con una versiÃ³n APK para dispositivos Android.
 
 
 
@@ -747,22 +752,23 @@ Archivo generado:
 
 
 
-
+```text
 
 app-release.apk
 
+```
 
 
 
-
-La versión instalable será publicada en la sección Releases del repositorio.
-
+La versiÃ³n instalable serÃ¡ publicada en la secciÃ³n Releases del repositorio.
 
 
 
+---
 
 
-\# Aprendizajes obtenidos
+
+# Aprendizajes obtenidos
 
 
 
@@ -770,121 +776,122 @@ Durante el desarrollo del proyecto se fortalecieron conocimientos relacionados c
 
 
 
-\- Desarrollo de aplicaciones móviles.
+- Desarrollo de aplicaciones mÃ³viles.
 
-\- Flutter.
+- Flutter.
 
-\- Dart.
+- Dart.
 
-\- Diseño de interfaces.
+- DiseÃ±o de interfaces.
 
-\- Lógica de programación.
+- LÃ³gica de programaciÃ³n.
 
-\- Solución de errores.
+- SoluciÃ³n de errores.
 
-\- Pruebas de aplicaciones.
+- Pruebas de aplicaciones.
 
-\- Uso de PowerShell.
+- Uso de PowerShell.
 
-\- Generación de APK.
+- GeneraciÃ³n de APK.
 
-\- Documentación técnica.
+- DocumentaciÃ³n tÃ©cnica.
 
-\- Uso de Inteligencia Artificial como herramienta de apoyo.
+- Uso de Inteligencia Artificial como herramienta de apoyo.
 
 
 
-\---
+---
 
 
 
-\# Proyecto académico
+# Proyecto acadÃ©mico
 
 
 
-Aprende Jugando representa un proceso de aprendizaje en el desarrollo de aplicaciones móviles, integrando programación, diseño, pruebas, documentación y herramientas tecnológicas.
+Aprende Jugando representa un proceso de aprendizaje en el desarrollo de aplicaciones mÃ³viles, integrando programaciÃ³n, diseÃ±o, pruebas, documentaciÃ³n y herramientas tecnolÃ³gicas.
 
 
 
-\---
+---
 
 
 
-\# Información de la autora
+# InformaciÃ³n de la autora
 
 
 
-\## Deisy Esquivia
+## Deisy Esquivia
 
 
 
-\*\*Estudiante de Ingeniería de Sistemas\*\*
+**Estudiante de IngenierÃ­a de Sistemas**
 
 
 
-\*\*Proyecto:\*\* Aprende Jugando
+**Proyecto:** Aprende Jugando
 
 
 
-\*\*Rol:\*\* Desarrollo y documentación del proyecto
+**Rol:** Desarrollo y documentaciÃ³n del proyecto
 
 
 
-\*\*Área:\*\* Desarrollo de aplicaciones móviles
+**Ãrea:** Desarrollo de aplicaciones mÃ³viles
 
 
 
-\*\*Tecnologías:\*\* Flutter, Dart, Android Studio, Visual Studio Code y PowerShell
+**TecnologÃ­as:** Flutter, Dart, Android Studio, Visual Studio Code y PowerShell
 
 
 
-Este proyecto fue desarrollado como parte del proceso de aprendizaje y formación en desarrollo de aplicaciones móviles.
+Este proyecto fue desarrollado como parte del proceso de aprendizaje y formaciÃ³n en desarrollo de aplicaciones mÃ³viles.
 
 
 
-\---
+---
 
 
 
-\# Estado del proyecto
+# Estado del proyecto
 
 
 
-\*\*Versión:\*\* 1.0.0
+**VersiÃ³n:** 1.0.0
 
 
 
-\*\*Estado:\*\* Proyecto funcional
+**Estado:** Proyecto funcional
 
 
 
-\*\*Plataforma:\*\* Android
+**Plataforma:** Android
 
 
 
-\*\*Tecnología:\*\* Flutter y Dart
+**TecnologÃ­a:** Flutter y Dart
 
 
 
-\---
+---
 
 
 
-\## Deisy Esquivia
+## Deisy Esquivia
 
 
 
-Estudiante de Ingeniería de Sistemas
+Estudiante de IngenierÃ­a de Sistemas
 
 
 
-\*\*Aprende Jugando\*\*
+**Aprende Jugando**
 
 
 
-Proyecto de aplicación móvil educativa.
+Proyecto de aplicaciÃ³n mÃ³vil educativa.
 
 
 
-© 2026 Deisy Esquivia
+Â© 2026 Deisy Esquivia
+
 
