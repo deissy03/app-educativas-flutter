@@ -2,13 +2,13 @@
 
 
 
-## AplicaciÃ³n educativa mÃ³vil desarrollada con Flutter y Dart
+## Aplicación educativa móvil desarrollada con Flutter y Dart
 
 
 
 **Autora:** Deisy Esquivia  
 
-**Programa:** IngenierÃ­a de Sistemas  
+**Programa:** Ingeniera de Sistemas  
 
 **Plataforma:** Android  
 
@@ -317,9 +317,9 @@ El documento incluye información relacionada con:
 
 ### Expediente técnico
 
-El expediente técnico se encuentra dentro de la carpeta `documentacion` del repositorio.
+El expediente técnico se encuentra dentro de la carpeta documentación del repositorio.
 
-[Consultar Expediente Técnico](documentacion/Expediente_Tecnico_Aprende_Jugando.pdf)
+[Consultar Expediente Técnico](documentación/Expediente_Tecnico_Aprende_Jugando.pdf)
 
 ---
 
@@ -354,5 +354,5 @@ La Inteligencia Artificial permitió recibir orientación sobre:
 
 La ubicación utilizada para el proyecto fue:
 
-```text
+
 C:\CURSOAPP\APPS_EDUCATIVAS\aprende_jugando
