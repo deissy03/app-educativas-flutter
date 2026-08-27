@@ -1,7 +1,8 @@
-﻿# Aprende Jugando
+
+# Curso de APP Móvil
 
 
-
+﻿# Primera aplicación móvil "Aprende Jugando"
 ## Aplicación educativa móvil desarrollada con Flutter y Dart
 
 
@@ -12,7 +13,7 @@
 
 **Plataforma:** Android  
 
-**VersiÃ³n:** 1.0.0
+**Versión:** 1.0.0
 
 
 
