@@ -616,7 +616,7 @@ El APK se genera en:
 
 
 
-```text
+
 
 build/app/outputs/flutter-apk/app-release.apk
 
@@ -632,7 +632,7 @@ build/app/outputs/flutter-apk/app-release.apk
 
 
 
-```text
+
 
 app-educativas-flutter
 
@@ -684,7 +684,6 @@ app-educativas-flutter
 
 └── pubspec.lock
 
-```
 
 
 
@@ -736,10 +735,6 @@ El repositorio contiene un expediente técnico en formato PDF donde se documenta
 
 
 
-\---
-
-
-
 \# APK
 
 
@@ -752,11 +747,11 @@ Archivo generado:
 
 
 
-```text
+
 
 app-release.apk
 
-```
+
 
 
 
@@ -764,7 +759,6 @@ La versión instalable será publicada en la sección Releases del repositorio.
 
 
 
-\---
 
 
 
