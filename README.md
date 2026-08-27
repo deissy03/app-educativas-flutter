@@ -148,11 +148,15 @@ El sistema permite que el jugador avance progresivamente mientras practica las d
 
 
 
+\# Capturas de pantalla
+
+
+
 \## Pantalla de bienvenida
 
 
 
-!\[Pantalla de bienvenida](https://raw.githubusercontent.com/deissy03/app-educativas-flutter/master/screenshots/bienvenida.jpeg)
+<img src="https://raw.githubusercontent.com/deissy03/app-educativas-flutter/master/screenshots/bienvenida.jpeg" alt="Pantalla de bienvenida" width="500">
 
 
 
@@ -164,7 +168,7 @@ El sistema permite que el jugador avance progresivamente mientras practica las d
 
 
 
-!\[Selección de aventuras](https://raw.githubusercontent.com/deissy03/app-educativas-flutter/master/screenshots/aventuras.jpeg)
+<img src="https://raw.githubusercontent.com/deissy03/app-educativas-flutter/master/screenshots/aventuras.jpeg" alt="Selección de aventuras" width="500">
 
 
 
@@ -176,7 +180,7 @@ El sistema permite que el jugador avance progresivamente mientras practica las d
 
 
 
-!\[Pantalla de sumas](https://raw.githubusercontent.com/deissy03/app-educativas-flutter/master/screenshots/sumas.jpeg)
+<img src="https://raw.githubusercontent.com/deissy03/app-educativas-flutter/master/screenshots/sumas.jpeg" alt="Pantalla de sumas" width="500">
 
 
 
@@ -188,7 +192,7 @@ El sistema permite que el jugador avance progresivamente mientras practica las d
 
 
 
-!\[Pantalla de restas](https://raw.githubusercontent.com/deissy03/app-educativas-flutter/master/screenshots/resta.jpeg)
+<img src="https://raw.githubusercontent.com/deissy03/app-educativas-flutter/master/screenshots/resta.jpeg" alt="Pantalla de restas" width="500">
 
 
 
@@ -200,7 +204,7 @@ El sistema permite que el jugador avance progresivamente mientras practica las d
 
 
 
-!\[Pantalla de multiplicaciones](https://raw.githubusercontent.com/deissy03/app-educativas-flutter/master/screenshots/multiplicaciones.jpeg)
+<img src="https://raw.githubusercontent.com/deissy03/app-educativas-flutter/master/screenshots/multiplicaciones.jpeg" alt="Pantalla de multiplicaciones" width="500">
 
 
 
@@ -212,7 +216,7 @@ El sistema permite que el jugador avance progresivamente mientras practica las d
 
 
 
-!\[Pantalla de resultados](https://raw.githubusercontent.com/deissy03/app-educativas-flutter/master/screenshots/resultados.jpeg)
+<img src="https://raw.githubusercontent.com/deissy03/app-educativas-flutter/master/screenshots/resultados.jpeg" alt="Pantalla de resultados" width="500">
 
 
 
